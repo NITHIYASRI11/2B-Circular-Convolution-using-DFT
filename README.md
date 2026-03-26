@@ -52,15 +52,11 @@ ylabel('amplitude');
 title('circular convolution');
 ```
 <br>
-### CALCULATIONS:
+## CALCULATIONS:
 
 ![WhatsApp Image 2026-03-26 at 09 50 41](https://github.com/user-attachments/assets/a3f287ee-a13a-41a1-9e00-827699c2c8bc)
 
 ### SAMPLE OUTPUT:
-<br>
-<br>
-<br>
-<br>
 
 
 
