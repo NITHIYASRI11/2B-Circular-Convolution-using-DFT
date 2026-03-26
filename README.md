@@ -58,6 +58,7 @@ title('circular convolution');
 
 ### SAMPLE OUTPUT:
 
+![WhatsApp Image 2026-03-26 at 11 48 32](https://github.com/user-attachments/assets/ccf1e03a-5cd2-4aa1-a125-d6d789628d28)
 
 
 ## RESULT:
